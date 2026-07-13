@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://liguangvc-tech.github.io/sitemap.xml
